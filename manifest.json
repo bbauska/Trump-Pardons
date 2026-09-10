@@ -1,5 +1,8 @@
 {
- "name": "App",
+ "name": "Trump Pardons 2025-2028",
+  "short_name": "Trump Pardons", 
+  "start_url": "index.html",
+  "display": "standalone",
  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
