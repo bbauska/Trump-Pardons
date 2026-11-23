@@ -951,45 +951,45 @@
         <td></td>
       </tr>
       <tr>
-        <td><a href="">Dustin Rhine</a>    Western District of Michigan    One year's probation; $2,000 fine (January 8, 2024)    Conspiracy to violate the Clean Air Act</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="">Dustin Rhine</a></td>
+        <td>Western District of Michigan</td>
+        <td>One year's probation; $2,000 fine (January 8, 2024).</td>
+        <td>Conspiracy to violate the Clean Air Act.</td>
       </tr>
       <tr>
-        <td><a href="">James Sisson</a>    Western District of Michigan    One year's probation; $2,000 fine (February 23, 2024)    Conspiracy to violate the Clean Air Act</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="">James Sisson</a></td>
+        <td>Western District of Michigan</td>
+        <td>One year's probation; $2,000 fine (February 23, 2024).</td>
+        <td>Conspiracy to violate the Clean Air Act.</td>
       </tr>
       <tr>
-        <td><a href="">Travis Turner</a> District of Oregon    Six months' imprisonment; no supervised release (June 20, 2023)    Accessory after the fact to Clean Air Tampering</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="">Travis Turner</a></td>
+        <td>District of Oregon</td>
+        <td>Six months' imprisonment; no supervised release (June 20, 2023).</td>
+        <td>Accessory after the fact to Clean Air Tampering.</td>
       </tr>
       <tr>
-        <td><a href="">Shemika Alfrida Williams</a>    District of South Carolina    180 months' imprisonment; five years' supervised release (May 9, 2018)    Conspiracy to possess with intent to distribute methamphetamine; possession of a firearm during a drug crime</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="">Shemika Alfrida Williams</a></td>
+        <td>District of South Carolina</td>
+        <td>180 months' imprisonment; five years' supervised release (May 9, 2018).</td>
+        <td>Conspiracy to possess with intent to distribute methamphetamine; possession of a firearm during a drug crime.</td>
       </tr>
       <!-- sep 8 2026 - 1 pardon -->
       <tr>
-        <td><a href="">Emory Clash Jones</a></td>
+        <td><a href="https://www.justice.gov/pardon/media/1460736/dl?inline">Emory Clash Jones</a></td>
         <td>District of Maryland</td>
         <td>151 months' imprisonment (as amended); five years' supervised release (October 15, 2000).</td>
         <td>Conspiracy to distribute cocaine hydrochloride and cocaine base.</td>
       </tr>
       <!-- oct 13 2026 - 2 pardons -->
       <tr>
-        <td><a href="">Zachary John Czubak</a></td>
+        <td><a href="https://www.justice.gov/pardon/media/1467071/dl?inline">Zachary John Czubak</a></td>
         <td>Alaska</td>
         <td>Five years' probation, conditioned upon 180 hours' community service; $66,000 fine (October 7, 2022).</td>
         <td>Conspiracy to violate the Clean Air Act.</td>
       </tr>
       <tr>
-        <td><a href="">Patrick Thomas Fleming</a></td>
+        <td><a href="https://www.justice.gov/pardon/media/1467096/dl?inline">Patrick Thomas Fleming</a></td>
         <td>Alaska</td>
         <td>Five years' probation; $6,000 fine (February 10, 2023).</td>
         <td>Conspiracy to violate the Clean Air Act.</td>
